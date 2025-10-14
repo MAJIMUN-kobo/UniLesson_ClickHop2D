@@ -1,51 +1,19 @@
-# UniLesson01
+# トントンゲーム
+  
+## 🎮 ゲーム  
+https://majimun-kobo.github.io/unilesson.github.io/unilesson/games/unilesson01/  
 
-https://majimun-kobo.github.io/unilesson.github.io/unilesson/games/unilesson01/
-
-操作方法
-左クリック：跳ねる
-
-概要
-・画面上を左クリックすると、キャラクターが跳ねます。
-・跳ねる際の X軸はランダムで決まります。
-・跳ねる際にはSEを再生します。
-・壁や床などに衝突するとSEを再生します。
-
-## 準備
-### プロジェクトの作成
-新規プロジェクトを作ります。  
-・テンプレート：Universal 2D  
-・プロジェクト名：UniLesson01  
-・保存場所を決めて下さい。  
-・プロジェクトを作成  
-
-Unityのエディター画面が開いたら準備完了です  
-
-### 画面の設定  
-ゲーム画面のアスペクト比を「16:9」に設定します。  
-
-### フォルダの作成
-「プロジェクトメニュー」⇒「Create」⇒「Folder」から以下のフォルダを作成します。  
-・Audio  
-・Prefabs  
-・Materials  
-・Scripts  
-・Textures  
-
-## プレイヤーの作成
-プレイヤーキャラクターを作りましょう。  
-
-### オブジェクトの生成
-「ヒエラルキーメニュー」⇒「2D Object」⇒「Sprites」⇒「Square」からプレイヤーとなるオブジェクトを生成します。  
-オブジェクトの名前を「Player」に変更しましょう。  
-
-オブジェクトにコンポーネントを追加します。  
-・Box Collider 2D...四角い衝突判定を追加するコンポーネント  
-・Rigidbody 2D...物理的な動きを追加するコンポーネント  
-・Audio Source...音を出すコンポーネント  
-
-### スクリプトの生成
-「プロジェクトメニュー」⇒「Create」⇒「MonoBehaviour Script」からプレイヤーのスクリプトを作成します。  
-ファイル名を「PlayerController」に変更しましょう。  
-
-スクリプトを作成したら、オブジェクト「Player」のコンポーネントに追加しましょう。
+### 操作方法
+> 左クリック：　跳ねる
+---
+> [!NOTE]
+> - 画面上を左クリックすると、キャラクターが跳ねます。
+> - 跳ねる際の X軸はランダムで決まります。
+> - 跳ねる際にはSEを再生します。
+> - 壁や床などに衝突するとSEを再生します。  
+  
+> [!WARNING]
+> 🔊音が出ます。
+  
+## 📓 作り方
+https://ryukyugame.notion.site/Unity-247b71fa95ca80a69094eb5b3771afa5
