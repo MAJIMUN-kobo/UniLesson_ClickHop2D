@@ -2,6 +2,7 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
+    [Header(">> Sound Settings")]
     public AudioClip BoundSEClip;
     public AudioClip ClickSEClip;
 
