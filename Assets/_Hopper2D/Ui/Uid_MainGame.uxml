@@ -1,0 +1,3 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/_Hopper2D/Ui/Uss_MainGame.uss?fileID=7433441132597879392&amp;guid=a77ce5853ba36f649ab763a7f3de57ba&amp;type=3#Uss_MainGame"/>
+</ui:UXML>
